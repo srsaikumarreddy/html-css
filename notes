@@ -1,5 +1,8 @@
-scm, vcs
+scm, vc
 git - distributed vcs
 
 git init
 git add filename
+
+
+Good learning happened.
