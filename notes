@@ -1,1 +1,5 @@
 scm, vcs
+git - distributed vcs
+
+git init
+git add filename
